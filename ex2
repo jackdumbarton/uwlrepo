@@ -1,0 +1,12 @@
+>>> num=4
+>>> num*=2
+>>> num1=num+2
+>>> num1+=3
+>>> print(num1)
+13
+>>> print(2/3)
+0.6666666666666666
+>>> print(2//3)
+0
+>>> #'/' stands for a simple division 2/3. Whereas '//' divides two integers and outputs the floor division result. This is why the two sums equal a diffrent
+>>> #number
