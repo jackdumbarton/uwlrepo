@@ -10,3 +10,11 @@
 0
 >>> #'/' stands for a simple division 2/3. Whereas '//' divides two integers and outputs the floor division result. This is why the two sums equal a diffrent
 >>> #number
+
+Area - code
+
+radius = int(input("please type your radius: "))
+x = 3.14
+pi = x
+area = pi * radius **2
+print(area)
