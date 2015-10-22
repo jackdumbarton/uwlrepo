@@ -1,0 +1,3 @@
+x = int(input("input the value of x")
+if (x>0):# this statment tells python that if 'x' the number inputed by a user is '>' greater than 0 
+    print(x)# to print the value of x
