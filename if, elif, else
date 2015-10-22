@@ -1,0 +1,11 @@
+Enter file contents here
+print ("Hello World")
+myName = input ("what is your name")
+myVar = input("Enter a number")
+
+if(myName == "Jack" or myVar != 18):
+    print("Absolute LAD")
+elif(myName == "cody"):
+    print("Wasteman")
+else:
+    print("Hello")
