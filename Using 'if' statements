@@ -1,3 +1,8 @@
 x = int(input("input the value of x"))
 if (x>0):# this statment tells python that if 'x' the number inputed by a user is '>' greater than 0 
     print(x)# to print the value of x
+Separate 'if' program
+scoreA = int(input("What was score A?:"))#adding 'int' allows the user to enter an intger instead of a string
+scoreB = int(input("What was score B?:"))
+if (scoreA == scoreB): #by stating scoreA and scoreB without speech marks, the string 'tie' will be returned
+    print("tie")
